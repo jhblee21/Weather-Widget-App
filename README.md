@@ -47,7 +47,7 @@
 
 <img src="images/weatherwidgetapp.png">
 
-This is a A simple weather widget app utilizing the OpenWeatherMap Weather API. This app displays the current weather (clear, clouds, rain, snow, or haze), temperature (in Fahrenheit), humidity (%), and wind speed (mph) for a city.
+This is a simple weather widget app utilizing the OpenWeatherMap Weather API. This app displays the current weather (clear, clouds, rain, snow, or haze), temperature (in Fahrenheit), humidity (%), and wind speed (mph) for a city.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
