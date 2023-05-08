@@ -64,7 +64,7 @@ This is a A simple weather widget app utilizing the OpenWeatherMap Weather API. 
 <!-- GETTING STARTED -->
 ## Getting Started
 
-Head over to [this website](https://jhblee21.github.io/Weather-Widget-App/), type in your city, then click on the search button!
+Head over to [this website](https://jhblee21.github.io/Weather-Widget-App/), type in your city, then click the search button!
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
